@@ -40,7 +40,7 @@ Describe any challenges encountered while building the app.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://im2.ezgif.com/tmp/ezgif-2-7a4bdd6b4361.gif" width=250><br>
+<img src="http://g.recordit.co/7QjPqdlxqz.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
